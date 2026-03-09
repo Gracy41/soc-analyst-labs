@@ -24,10 +24,10 @@ Snort generated alerts when suspicious traffic patterns were detected, demonstra
 - IDS rule analysis
 - Threat detection## Snort Configuration Validation
   
-![Snort Config](snort-config-validation.png)
+snort-config-validation.png.jpeg
 
 ## Snort Detection Rule
-![Snort Rule](snort-rule.png)
+snort-rule.png.jpeg
 
 ## Snort Monitoring
-![Snort Running](snort-running.png)
+traffic-generation.png
