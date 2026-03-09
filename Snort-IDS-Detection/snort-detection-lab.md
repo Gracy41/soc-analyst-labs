@@ -1,20 +1,25 @@
-# Memory Forensics Investigation
+# Snort Intrusion Detection Lab
 
 ## Objective
-To analyze a compromised system memory dump and identify malicious processes.
+To configure and monitor Snort IDS to detect suspicious network traffic.
 
 ## Tools Used
-- Volatility
-- Redline
+- Snort
+- Kali Linux
 
-## Investigation Findings
+## Steps Performed
 
-- Suspicious process detected: oneetx.exe
-- Suspicious command execution: rundll32.exe
-- Malicious IP communication: 77.91.124.20
+1. Installed and configured Snort IDS.
+2. Monitored network traffic.
+3. Created detection rules.
+4. Analyzed IDS alerts.
+
+## Findings
+
+Snort generated alerts when suspicious traffic patterns were detected, demonstrating how intrusion detection systems identify potential attacks.
 
 ## Skills Demonstrated
 
-- Memory analysis
-- Malware activity identification
-- Digital forensics investigation
+- Network monitoring
+- IDS rule analysis
+- Threat detection
