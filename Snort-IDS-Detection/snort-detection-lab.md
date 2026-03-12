@@ -32,3 +32,8 @@ Snort generated alerts when suspicious traffic patterns were detected, demonstra
 
 ## Snort Monitoring
 ![Snort Running](traffic-generation.jpeg)
+
+## Live Alert Monitoring
+The screenshot below shows Snort actively detecting network activity during packet inspection.
+
+![Snort Alert](snort-alert-detected.jpeg)
