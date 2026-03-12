@@ -31,4 +31,4 @@ Snort generated alerts when suspicious traffic patterns were detected, demonstra
 ![Snort Rule](snort-rule.jpeg)
 
 ## Snort Monitoring
-![Snort Running](snort-running.jpeg)
+![Snort Running](traffic-generation.jpeg)
